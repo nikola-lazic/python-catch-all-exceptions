@@ -1,0 +1,7 @@
+ERROR:root:Traceback (most recent call last):
+  File "d:/Dropbox/Programming/Python_exercise/python-catch-all-exceptions/python-catch-all-exceptions.py", line 15, in <module>
+    main_function()
+  File "d:/Dropbox/Programming/Python_exercise/python-catch-all-exceptions/python-catch-all-exceptions.py", line 8, in main_function
+    print(something_undefined_or_any_error)  # Function with error (d is not defined)
+NameError: name 'something_undefined_or_any_error' is not defined
+
